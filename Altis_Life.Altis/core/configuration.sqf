@@ -11,6 +11,7 @@
 ****** Backend Variables *****
 *****************************
 */
+life_session_tries = 0;
 life_query_time = time;
 life_action_delay = time;
 life_trunk_vehicle = objNull;
